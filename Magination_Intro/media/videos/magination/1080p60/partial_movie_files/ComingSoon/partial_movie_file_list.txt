@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/godex305/manimations/Example slides/media/videos/magination/1080p60/partial_movie_files/ComingSoon/3581103318_419999006_223132457.mp4'
+file 'file:/Users/godex305/manimations/Example slides/media/videos/magination/1080p60/partial_movie_files/ComingSoon/2482139977_1432596116_3508560392.mp4'
+file 'file:/Users/godex305/manimations/Example slides/media/videos/magination/1080p60/partial_movie_files/ComingSoon/2482139977_93378936_2358810818.mp4'

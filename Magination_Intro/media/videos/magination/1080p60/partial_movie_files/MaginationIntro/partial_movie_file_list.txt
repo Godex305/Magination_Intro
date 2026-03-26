@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/godex305/manimations/Example slides/media/videos/magination/1080p60/partial_movie_files/MaginationIntro/3581103318_302181736_318452024.mp4'
+file 'file:/Users/godex305/manimations/Example slides/media/videos/magination/1080p60/partial_movie_files/MaginationIntro/2482139977_106133580_2358810818.mp4'
+file 'file:/Users/godex305/manimations/Example slides/media/videos/magination/1080p60/partial_movie_files/MaginationIntro/2482139977_2865046850_2715235456.mp4'
+file 'file:/Users/godex305/manimations/Example slides/media/videos/magination/1080p60/partial_movie_files/MaginationIntro/2482139977_3528226281_504426170.mp4'
+file 'file:/Users/godex305/manimations/Example slides/media/videos/magination/1080p60/partial_movie_files/MaginationIntro/2482139977_3427748239_2358810818.mp4'
